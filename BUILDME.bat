@@ -1,4 +1,4 @@
 
-cmake -B target/
+cmake -B tgt/
 
-cmake --build target/ --config Release
+cmake --build tgt/ --config Release
